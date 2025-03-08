@@ -1,0 +1,11 @@
+{
+	"id": "proxy-enhance",
+	"name": "Proxy Enhance",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "为 Obsidian 提供内置的网络代理支持。",
+	"author": "LragonStarr",
+	"fundingUrl": "https://buymeacoffee.com/lragonstarr",
+	"authorUrl": "https://github.com/QL-boy",
+	"isDesktopOnly": true
+}
