@@ -1,3 +1,4 @@
+[English](https://github.com/QL-boy/ProxyEnhance/blob/main/README_EN.md)
 # Proxy Enhance
 
 Proxy Enhance 是一款 Obsidian 插件，版本为 1.0.0，最低支持 Obsidian 应用版本 0.15.0。该插件专为桌面端设计，旨在为 Obsidian 提供内置的网络代理支持，帮助用户轻松配置网络代理，并在整个 Obsidian 应用中使用这些代理。当前支持的代理类型包括 socks、http 和 https，适用于网络受限地区的用户。你可以通过 [Github 仓库](https://github.com/QL-boy) 获取该插件，若你觉得此插件有帮助，也可以通过 [捐赠链接](https://buymeacoffee.com/lragonstarr) 支持开发者。
