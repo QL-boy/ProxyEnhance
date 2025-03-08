@@ -1,3 +1,4 @@
+[中文](https://github.com/QL-boy/ProxyEnhance)
 # Proxy Enhance
 
 Proxy Enhance is an Obsidian plugin with version 1.0.0, and it requires a minimum Obsidian application version of 0.15.0. This plugin is specifically designed for the desktop version, aiming to provide built-in web proxy support for Obsidian, helping users configure web proxies easily and use these proxies throughout the entire Obsidian application. The currently supported proxy types include socks, http, and https, which are suitable for users in areas with network restrictions. You can obtain this plugin through the [Github repository](https://github.com/QL-boy). If you find this plugin helpful, you can also support the developer through the [donation link](https://buymeacoffee.com/lragonstarr).
